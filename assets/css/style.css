@@ -1,0 +1,19 @@
+body {
+  height: 100%;
+}
+
+.viewport {
+  height: 100vh;
+}
+
+.thick {
+  height: 50%;
+  color: white;
+  background-color: #800;
+}
+
+.thin {
+  height: 50%;
+  color: white;
+  background-color: #080;
+}
